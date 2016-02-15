@@ -1,0 +1,13 @@
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_obj\Debug\Kim_Andy_Lab2.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\Andy\Documents\Kim_Andy_Lab2\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
